@@ -1,0 +1,23 @@
+/*ESTILOS DEL BODY*/
+body{
+    background-image: url(https://i.pinimg.com/736x/71/f2/6e/71f26e3d249a86c3f930f021c0a2c75d.jpg);
+    
+}
+
+section{
+    margin-left: 32rem;
+    margin-top: 13rem;
+}
+
+/*ESTILOS DEL LOGO*/
+.logo{
+    width: 40rem;
+}
+
+/*ESTILOS DE LA BARRA DE NAVEGACIÓN*/
+input{
+    border-radius: 20px;
+    padding-left: 3rem;
+    width: 40rem;
+    height: 2.5rem;
+}
